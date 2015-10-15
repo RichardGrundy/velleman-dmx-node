@@ -1,0 +1,14 @@
+{
+  "name": "vdmx",
+  "version": "0.0.0",
+  "description": "Velleman dmx controller for node",
+  "main": "vdmx.js",
+  "private": true,
+  "scripts": {
+    "test": "node vdmx.js"
+  },
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "~1.2.1"
+  }
+}

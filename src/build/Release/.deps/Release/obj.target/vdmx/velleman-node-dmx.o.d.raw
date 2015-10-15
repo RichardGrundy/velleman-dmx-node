@@ -1,0 +1,6 @@
+Release/obj.target/vdmx/velleman-node-dmx.o: ../velleman-node-dmx.cc \
+  /Users/Richard/.node-gyp/0.12.7/src/node.h \
+  /Users/Richard/.node-gyp/0.12.7/deps/v8/include/v8.h \
+  /Users/Richard/.node-gyp/0.12.7/deps/v8/include/v8stdint.h \
+  /Users/Richard/.node-gyp/0.12.7/deps/v8/include/v8config.h \
+  /Users/Richard/.node-gyp/0.12.7/src/node_version.h .././dmx.h
