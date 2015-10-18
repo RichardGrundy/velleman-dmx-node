@@ -4,11 +4,12 @@
   "description": "Velleman dmx controller for node",
   "main": "vdmx.js",
   "private": true,
+  "dependencies": {
+    "bindings": "~1.2.1",
+    "nan": "^2.1.0"
+  },
   "scripts": {
     "test": "node vdmx.js"
   },
-  "gypfile": true,
-  "dependencies": {
-    "bindings": "~1.2.1"
-  }
+  "gypfile": true
 }
